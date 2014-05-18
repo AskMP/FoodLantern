@@ -10,7 +10,7 @@ Installation
 git clone https://github.com/AskMP/FoodLantern.git
 cd FoodLantern/node_modules/foodLantern
 npm update
-cd ..
+cd ../..
 node app
 
 ```
