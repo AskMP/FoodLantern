@@ -1,4 +1,4 @@
-FoodLantern
+Forage (Server Side)
 ===========
 
 Creative Technologists of Toronto Spring 2014 Project server side code.
