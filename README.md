@@ -7,8 +7,8 @@ Installation
 --------------
 
 ```sh
-git clone https://github.com/AskMP/FoodLantern.git
-cd FoodLantern/node_modules/foodLantern
+git clone https://github.com/AskMP/Forage--Server-Side-.git
+cd Forage/node_modules/forage
 npm update
 cd ../..
 node app
