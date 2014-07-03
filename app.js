@@ -1,4 +1,4 @@
-var FoodLantern = require('foodlantern');
+var Forage = require('forage');
 
-// Initialize the FoodLantern Primary Object
-FoodLantern.initialize();
+// Initialize the Forage Primary Object
+Forage.initialize();
